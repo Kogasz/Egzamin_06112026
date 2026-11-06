@@ -1,0 +1,9 @@
+.boxy{
+  display: flex;
+  flex-direction: row;
+}
+.div_zdjecia{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
